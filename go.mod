@@ -1,4 +1,4 @@
-module undefiorg/vanibnb
+module github.com/VladimirDirksen/vanibnb
 
 require github.com/binance-chain/go-sdk v1.2.6
 
